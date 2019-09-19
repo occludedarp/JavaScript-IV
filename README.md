@@ -68,7 +68,7 @@ const fred = new Instructor({
 ```
 
 #### Person
-
+attributes
 * First we need a Person class. This will be our `base-class`
 * Person receives `name` `age` `location` all as props
 * Person receives `speak` as a method.
